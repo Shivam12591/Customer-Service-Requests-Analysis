@@ -82,4 +82,4 @@ Latitude	(Number) - Latitude of the location
 Longitude	(Number) - Longitude of the location
 Location	(Location) - Coordinates (Latitude, Longitude)
 
-Please download the dataset from the givem link https://drive.google.com/file/d/1oZ-EK5J_QO0Wg9j8MbyeqAugtMFUm42K/view?usp=sharing
+Please download the dataset from the given link https://drive.google.com/file/d/1oZ-EK5J_QO0Wg9j8MbyeqAugtMFUm42K/view?usp=sharing
